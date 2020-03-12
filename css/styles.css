@@ -1,25 +1,17 @@
 .nav li{list-style-type: none;
     display: inline;
-    padding-left: 50px;
-    padding-top: 50px;
-    
-}
+
+
 
 
 ul{
     display: flex;
 }
-#navigation-container{
-    display: inline-flex;
-    
-    
-}
-.navigation-bar{
-    width: 100%;
-   
-    display: inline-flex;
 
+    
+    
 }
+
 .part{
     text-align: center;
     padding-top: 200px;
